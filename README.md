@@ -13,7 +13,7 @@
 4. Iniciar el script
 --COMANDOS: npm run start
 
-5.Instalar Mongoose en package.json
+5. Instalar Mongoose en package.json
 --COMANDOS: npm i mongoose
 
 6. Conectar a base de datos 
