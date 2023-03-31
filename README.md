@@ -5,7 +5,7 @@
 --COMANDOS: npm init, npm init --yes
 
 2. Instalar framework Express (node_modules)
--COMANDOS: npm install express, npm i express
+--COMANDOS: npm install express, npm i express
 
 3. Instalar dependencias en package.json 
 --COMANDOS: npm i nodemon -D
